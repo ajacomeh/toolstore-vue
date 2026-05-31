@@ -1,0 +1,9 @@
+<template>
+
+  <footer class="footer">
+
+    © 2026 ToolStore
+
+  </footer>
+
+</template>
